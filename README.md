@@ -22,15 +22,15 @@ Certifique-se de ter os seguintes requisitos instalados em sua máquina:
  
 ## Como usar
 
-1. Clone este repositório:
+Clone este repositório:
 
 `git clone https://github.com/heliomarpm/dotNET.CRUD.DapperSqlite.git`
 
-1. Navegue até o diretório do projeto:
+Navegue até o diretório do projeto:
 
 `cd dotNET.CRUD.DapperSqlite` 
 
-1. Abra a solução no Visual Studio:
+Abra a solução no Visual Studio:
 
 ## Tecnologias utilizadas:
 
